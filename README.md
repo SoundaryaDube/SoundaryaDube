@@ -4,6 +4,7 @@ I am a Computer Science undergraduate specializing in Health Informatics at VIT 
 
 
 🚀 About Me
+
 🔭 I’m currently working on AI-powered diagnostic tools and digital health ecosystems.
 
 🧠 My core expertise includes Deep Learning, Computer Vision, and NLP.
@@ -12,6 +13,7 @@ I am a Computer Science undergraduate specializing in Health Informatics at VIT 
 
 
 🛠 Tech Stack
+
 Languages: Python, C++, Java
 
 AI/ML: TensorFlow, PyTorch, Keras, Scikit-Learn, OpenCV, spaCy, LightGBM
@@ -22,6 +24,7 @@ Tools: Git, Docker, Streamlit
 
 
 🏆 Featured Projects
+
 ❤️ ECG Health Risk Stratification: A predictive platform integrating 6+ public datasets to classify arrhythmia with 94% accuracy using Ensemble models (LightGBM) and Grad-CAM for explainability.
 
 🏥 Digital Health Card System: A centralized, secure health record system (Ayushman Bharat compliant) built with FastAPI and MongoDB for seamless patient data management.
