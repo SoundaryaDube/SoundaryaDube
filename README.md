@@ -1,5 +1,7 @@
-Hi there, I'm #Soundarya Dube! 👋
+Hi there, I'm Soundarya Dube! 👋
+
 I am a Computer Science undergraduate specializing in Health Informatics at VIT Bhopal. My passion lies at the intersection of healthcare and technology, where I build AI-driven solutions to solve real-world medical challenges.
+
 
 🚀 About Me
 🔭 I’m currently working on AI-powered diagnostic tools and digital health ecosystems.
@@ -7,6 +9,7 @@ I am a Computer Science undergraduate specializing in Health Informatics at VIT 
 🧠 My core expertise includes Deep Learning, Computer Vision, and NLP.
 
 💼 Experienced in deploying models to the cloud using GCP, FastAPI, and Flask.
+
 
 🛠 Tech Stack
 Languages: Python, C++, Java
@@ -16,6 +19,7 @@ AI/ML: TensorFlow, PyTorch, Keras, Scikit-Learn, OpenCV, spaCy, LightGBM
 Backend & Cloud: FastAPI, Flask, Django, MongoDB, Google Cloud Platform (GCP)
 
 Tools: Git, Docker, Streamlit
+
 
 🏆 Featured Projects
 ❤️ ECG Health Risk Stratification: A predictive platform integrating 6+ public datasets to classify arrhythmia with 94% accuracy using Ensemble models (LightGBM) and Grad-CAM for explainability.
