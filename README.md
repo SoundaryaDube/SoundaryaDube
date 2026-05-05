@@ -13,5 +13,6 @@ Recent work includes:
 Technologies I often use:
 Python • PyTorch • TensorFlow • OpenCV • FastAPI • Pandas • Asyncio
 
+
 Currently exploring:
 LLM systems, multimodal models, and AI automation.
