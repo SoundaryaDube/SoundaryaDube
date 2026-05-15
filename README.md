@@ -21,4 +21,7 @@ LLM systems, multimodal models, and AI automation.
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Life of an AI Automation Engineer at Qumin](https://ytcards.demolab.com/?id=KgYlrpn2zAU&title=Life+of+an+AI+Automation+Engineer+at+Qumin&lang=en&timestamp=1778544000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=90)](https://youtu.be/KgYlrpn2zAU)
+
+[![Can You Build Production-Ready AI Systems?](https://ytcards.demolab.com/?id=0A1BtN84IdY&title=Can+You+Build+Production-Ready+AI+Systems&lang=en&timestamp=1778716800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=39)](https://youtu.be/0A1BtN84IdY)
+
 <!-- END YOUTUBE-CARDS -->
