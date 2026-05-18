@@ -1,21 +1,31 @@
-Hi there, I'm Soundarya Dube!
+# Hi there, I'm Soundarya Dube! 👋
 
-Computer Science student at VIT Bhopal interested in building scalable AI systems.
+Computer Science student at :contentReference[oaicite:0]{index=0} passionate about building scalable AI systems and intelligent automation.
 
-My work spans machine learning, multimodal AI, and data pipelines. I enjoy working on problems where large models interact with real-world data and interfaces.
+My work focuses on machine learning, multimodal AI, and data-driven systems. I enjoy solving problems where large models interact with real-world data, interfaces, and automation workflows.
 
-Recent work includes:
-- Asynchronous Python pipelines for large-scale web data collection
-- LLM-based structured data extraction using Gemini
-- Evaluation frameworks for Vision-Language Models
-- Spatial consensus systems for UI element detection
+## 🚀 Recent Work
 
-Technologies I often use:
-Python • PyTorch • TensorFlow • OpenCV • FastAPI • Pandas • Asyncio
+- Built asynchronous Python pipelines for large-scale web data collection
+- Developed LLM-powered structured data extraction systems using Gemini
+- Worked on evaluation frameworks for Vision-Language Models (VLMs)
+- Created spatial consensus systems for UI element detection and automation
 
+## 🛠️ Technologies & Tools
 
-Currently exploring:
-LLM systems, multimodal models, and AI automation.
+**Languages & Frameworks**  
+Python • PyTorch • TensorFlow • FastAPI • OpenCV • Pandas • Asyncio
+
+**Areas of Interest**  
+LLM Systems • Multimodal AI • AI Automation • Computer Vision • Data Pipelines
+
+## 🌱 Currently Exploring
+
+- Advanced LLM systems
+- Multimodal model architectures
+- AI-powered automation workflows
+- Intelligent UI understanding systems
+
 
 # 💻 Featured YouTube Videos
 
