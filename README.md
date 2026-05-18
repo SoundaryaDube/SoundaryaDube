@@ -1,8 +1,8 @@
 # Hi there, I'm Soundarya Dube! 👋
 
-Computer Science student at :contentReference[oaicite:0]{index=0} passionate about building scalable AI systems and intelligent automation.
+Computer Science student at Vellore Institute of Technology, Bhopal passionate about building scalable AI systems and intelligent automation.
 
-Currently working at :contentReference[oaicite:1]{index=1}, contributing to AI automation, software testing workflows, and scalable QA systems across web and mobile platforms.
+Currently working at Qumin.ai, contributing to AI automation, software testing workflows, and scalable QA systems across web and mobile platforms.
 
 My work focuses on machine learning, multimodal AI, automation, and data-driven systems. I enjoy solving problems where large models interact with real-world data, interfaces, and intelligent workflows.
 
