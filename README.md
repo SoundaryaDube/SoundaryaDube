@@ -1,4 +1,4 @@
-# Hi there, I'm Soundarya Dube! 👋
+# Hi, I'm Soundarya Dube! 
 
 Computer Science student at Vellore Institute of Technology, Bhopal passionate about building scalable AI systems and intelligent automation.
 
